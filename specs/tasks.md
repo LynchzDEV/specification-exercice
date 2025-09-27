@@ -1,7 +1,7 @@
 # Tasks: Pixel Art Canvas
 
 ### Phase 1: Project Setup
-- [ ] 1. Initialize new TypeScript + React project using `bun`.
+- [ ] 1. Initialize new TypeScript + React and Tailwind project using `bun`.
 - [ ] 2. Create the component folder structure: `/components/CanvasGrid`, `/components/Pixel`, etc.
 - [ ] 3. Set up basic CSS for a dark theme and center the main app container.
 
