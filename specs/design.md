@@ -1,9 +1,9 @@
 # Design: Pixel Art Canvas
 
 ## 1. Frontend Architecture
-- **Framework:** React with TypeScript.
+- **Framework:** React with TypeScript with Tailwind.
 - **State Management:** We will use React's built-in hooks (`useState`) for managing the grid state and the selected color. This is sufficient for the app's complexity.
-- **Styling:** CSS Modules for component-scoped styles to maintain a clean structure.
+- **Styling:** tailwind inline for component-scoped styles to maintain a clean structure.
 
 ## 2. Component Breakdown
 The application will be broken down into the following components:
@@ -13,8 +13,6 @@ The application will be broken down into the following components:
 - **`Pixel.tsx`**: Represents a single cell in the grid. It will receive its color as a prop and handle its own `onClick` event.
 - **`ColorPalette.tsx`**: Displays the available colors. It manages the state for the currently selected color and passes it up to `App.tsx`.
 - **`Toolbar.tsx`**: A simple component that contains action buttons like "Clear".
-
-
 
 ## 3. Data Model (State Shape)
 The application's state will be structured as follows:
