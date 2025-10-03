@@ -1,3 +1,9 @@
+---
+project_name: "Pixel Art Canvas"
+file_purpose: "Task Breakdown - Lists the specific, actionable coding tasks needed to implement the design."
+status: "Ready for Implementation"
+ai_instruction: "Execute the tasks in this file sequentially. After completing a task or a logical group of tasks, update the `changelog.md`."
+---
 # Tasks: Pixel Art Canvas
 
 ### Phase 1: Project Setup

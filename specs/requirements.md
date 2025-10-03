@@ -1,3 +1,9 @@
+---
+project_name: "Pixel Art Canvas"
+file_purpose: "Requirements Specification - Defines the 'what' and 'why' of the project from a user's perspective."
+status: "Approved"
+ai_instruction: "Review these requirements to understand the project goals. Use this as the single source of truth for all features. Do not modify."
+---
 # Requirements: Pixel Art Canvas
 
 ## 1. High-Level Goal

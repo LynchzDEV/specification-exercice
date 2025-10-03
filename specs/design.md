@@ -1,3 +1,9 @@
+---
+project_name: "Pixel Art Canvas"
+file_purpose: "Technical Design Specification - Outlines 'how' the project will be built, including architecture and components."
+status: "Approved"
+ai_instruction: "Use this technical plan to guide code generation and task breakdown. Ensure the implementation follows the specified architecture and tech stack."
+---
 # Design: Pixel Art Canvas
 
 ## 1. Frontend Architecture
